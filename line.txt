@@ -1,5 +1,11 @@
-First line
+First line (alternative)
 Second line
+<<<<<<< HEAD
 Third line (main)
 Fourth line
 Fifth line (main)
+=======
+Third line (alternative)
+Fourth line
+Fifth line
+>>>>>>> alternative
